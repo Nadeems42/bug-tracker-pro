@@ -1,73 +1,32 @@
-# Welcome to your Lovable project
+# 🐞 Bug Tracker System – MERN Stack (Frontend with Vite + React + shadcn-ui)
 
-## Project info
+A modern bug tracking system UI developed using Lovable AI with Vite, React, and Tailwind CSS. Built for the MERN Developer Internship at Isaii.
 
-**URL**: https://lovable.dev/projects/adb5c049-d41a-4563-aeb2-c548b003965b
+## 🚀 Features
+- 🐛 Report bugs with title, description, screenshot, priority
+- 🛠️ Track bug status (Open, In Progress, Closed)
+- 👤 Admin assignment panel
+- 📊 Dashboard with bug stats & filters
+- 🕒 Activity log (basic view for bug tracking events)
 
-## How can I edit this code?
+## 🛠️ Tech Stack
+- **Vite + React** (frontend framework)
+- **TypeScript**
+- **Tailwind CSS** (styling)
+- **shadcn/ui** (UI components)
+- **Lovable AI** (AI-powered dev support)
 
-There are several ways of editing your application.
+## 📸 Screenshots
+*(Add some screenshots here if you can)*
 
-**Use Lovable**
+## 🔧 Getting Started (Local Setup)
+```bash
+# Clone the repo
+git clone https://github.com/Nadeems42/bug-tracker-pro.git
+cd bug-tracker-pro
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/adb5c049-d41a-4563-aeb2-c548b003965b) and start prompting.
+# Install dependencies
+npm install
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Run the app
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/adb5c049-d41a-4563-aeb2-c548b003965b) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
