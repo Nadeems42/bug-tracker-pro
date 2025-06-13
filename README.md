@@ -17,7 +17,10 @@ A modern bug tracking system UI developed using Lovable AI with Vite, React, and
 - **Lovable AI** (AI-powered dev support)
 
 ## 📸 Screenshots
-*(Add some screenshots here if you can)*
+![image](https://github.com/user-attachments/assets/a3d76631-71d2-4e3e-8157-b01aa10e11ce)
+![image](https://github.com/user-attachments/assets/906f82cb-9cad-4c67-bab7-a340a920381e)
+
+
 
 ## 🔧 Getting Started (Local Setup)
 ```bash
