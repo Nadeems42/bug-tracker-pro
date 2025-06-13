@@ -1,6 +1,7 @@
 # 🐞 Bug Tracker System – MERN Stack (Frontend with Vite + React + shadcn-ui)
 
 A modern bug tracking system UI developed using Lovable AI with Vite, React, and Tailwind CSS. Built for the MERN Developer Internship at Isaii.
+🚀 Live Demo: [https://bug-tracker-pro.lovable.app](https://bug-tracker-pro.lovable.app)
 
 ## 🚀 Features
 - 🐛 Report bugs with title, description, screenshot, priority
